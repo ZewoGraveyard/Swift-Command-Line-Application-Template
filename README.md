@@ -15,6 +15,30 @@ The **Swift Command Line Application** template provides only what's needed to r
 - [x] Supports **Swift Frameworks**
 - [ ] Script that extracts the executable, swift standard libraries and frameworks from the app's bundle.
 
+## Usage
+
+- Open Xcode and press ⇧⌘9 or go to `File` > `New` > `Project`
+- Select `OS X` > `Zewo` > `Swif Command Line Application`
+
+![New Project](Screenshot1.png)
+
+- Press `Next`
+- Type your `Product Name`, etc.
+
+![Project Options](Screenshot2.png)
+
+- Select directory and press `Create`
+- `main.swift` will be entry point of your app
+
+![Main](Screenshot3.png)
+
+- To add **Swift Frameworks** select the project, app target, and on the `General` tab press `+` on the `Embedded Binaries` section.
+- Select your frameworks
+
+![Main](Screenshot4.png)
+
+- That's it (:
+
 ## Installation
 
 #### Alcatraz
@@ -27,7 +51,7 @@ Install [Alcatraz](https://github.com/supermarin/Alcatraz) by running:
 curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | sh
 ```
 
-- With Xcode open press ⇧⌘9 or go to Window > Package Manager to open Alcatraz.
+- With Xcode open press ⇧⌘9 or go to `Window` > `Package Manager` to open Alcatraz.
 - Look for *Swift Command Line Application Template*.
 - Click on the `INSTALL` button.
 - Restart Xcode.
