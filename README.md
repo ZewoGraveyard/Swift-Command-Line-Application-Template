@@ -33,10 +33,10 @@ The **Swift Command Line Application** template provides only what's needed to r
 ![Main](Screenshot3.png)
 
 - To add **Swift Frameworks** select the project, app target, and on the `General` tab press `+` on the `Embedded Binaries` section.
-- Select your frameworks
 
 ![Main](Screenshot4.png)
 
+- Select your frameworks
 - That's it (:
 
 ## Installation
