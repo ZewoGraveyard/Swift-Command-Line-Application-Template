@@ -6,7 +6,7 @@ Swift Command Line Application Template
 [![Alcatraz Compatible](https://img.shields.io/badge/Alcatraz-Compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-The regular **Command Line Tool** template that comes with Xcode doesn't support *Swift Frameworks*. *Swift Applications* need a copy of the *Swift Standard Libraries* in their run path. The regular **Cocoa Application** template that comes with Xcode copies the *Swift Standard Libraries* to the app's bundle. But it also comes with the storyboards and a lot of stuff that command line applications doesn't need.
+The regular **Command Line Tool** template that comes with Xcode doesn't support *Swift Frameworks*. *Swift Applications* need a copy of the *Swift Standard Libraries* in their run path. The regular **Cocoa Application** template that comes with Xcode copies the *Swift Standard Libraries* to the app's bundle. But it also comes with the storyboards and a lot of stuff that command line applications don't need.
 
 The **Swift Command Line Application** template provides only what's needed to run a *Swift Application* using *Swift Frameworks*.
 
