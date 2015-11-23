@@ -52,7 +52,7 @@ curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | 
 ```
 
 - With Xcode open press ⇧⌘9 or go to `Window` > `Package Manager` to open Alcatraz.
-- Look for **Swift Command Line Application Template**.
+- Look for **Swift Command Line Application** under *Templates*.
 - Click on the `INSTALL` button.
 - Restart Xcode.
 
