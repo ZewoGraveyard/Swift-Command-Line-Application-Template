@@ -4,7 +4,8 @@ Swift Command Line Application Template
 [![Swift 2.1](https://img.shields.io/badge/Swift-2.1-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![Platforms OS X](https://img.shields.io/badge/Platforms-OS%20X-lightgray.svg?style=flat)](https://developer.apple.com/swift/)
 [![Alcatraz Compatible](https://img.shields.io/badge/Alcatraz-Compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://tldrlegal.com/license/mit-license)
+[![Slack Status](https://zewo-slackin.herokuapp.com/badge.svg)](https://zewo-slackin.herokuapp.com)
 
 The regular **Command Line Tool** template that comes with Xcode doesn't support *Swift Frameworks*. *Swift Applications* need a copy of the *Swift Standard Libraries* in their run path. The regular **Cocoa Application** template that comes with Xcode copies the *Swift Standard Libraries* to the app's bundle, but it also comes with storyboards and a lot of stuff that command line applications don't need.
 
@@ -62,3 +63,14 @@ curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | 
 - Copy the `Project Templates` directory to `~/Library/Developer/Xcode/Templates`
 - If the `~/Library/Developer/Xcode/Templates/Project Templates` directory already exists, copy the `Zewo` directory to it
 - Restart Xcode.
+
+## Community
+
+[![Slack](http://s13.postimg.org/ybwy92ktf/Slack.png)](https://zewo-slackin.herokuapp.com)
+
+Join us on [Slack](https://zewo-slackin.herokuapp.com).
+
+License
+-------
+
+**Swift Command Line Application Template** is released under the MIT license. See LICENSE for details.
