@@ -46,7 +46,7 @@ The **Swift Command Line Application** template provides only what's needed to r
 
 Alcatraz is an open-source package manager for Xcode 5+. It lets you discover and install plugins, templates and color schemes without the need for manually cloning or copying files. It installs itself as a part of Xcode and it feels like home.
 
-Install [Alcatraz](https://github.com/supermarin/Alcatraz) by running:
+Install [Alcatraz](https://github.com/alcatraz/Alcatraz) by running:
 
 ```bash
 curl -fsSL https://raw.github.com/alcatraz/Alcatraz/master/Scripts/install.sh | sh
